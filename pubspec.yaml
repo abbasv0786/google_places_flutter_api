@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_google_maps_webservices: ^1.0.0
-  google_api_headers: ^2.0.0
+  google_api_headers: 3.3.0
   http: ^1.0.0
   rxdart: ^0.27.5
 
